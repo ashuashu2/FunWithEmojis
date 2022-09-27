@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100%;
+  background-color: mediumspringgreen;
+  /* margin: auto; */
+}
+h1 {
+  font-style: oblique;
+  font-size: 2.5rem;
+}
+input {
+  width: 50%;
+  height: 6vh;
+}
